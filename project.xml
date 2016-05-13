@@ -1,0 +1,5 @@
+<project>
+        <includeProject>tooltwist</includeProject>
+        <includeProject>ttWbd</includeProject>
+        <includeProject>bootstrap-tooltwist</includeProject>
+</project>

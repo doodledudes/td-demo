@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>happi</parent>
+  <name>happi-webdesign-1</name>
+  <id>webdesign-1</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>Home</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>happi.pages.p_home</pageWidget>
+</navpoint>

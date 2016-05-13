@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1462269374152</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>192.168.99.1</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1462238380556</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from happi.zones.trash_z_header to happi.zones.z_header</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.123</ipAddress>
+</statusHistory>
+</widgetStatus>

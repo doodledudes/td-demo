@@ -1,0 +1,8 @@
+{
+        "ttsec-standaloneDesigner" : "com.tooltwist:ttsec-standaloneDesigner:8.5.0-SNAPSHOT",
+        "tooltwist": "com.tooltwist:tooltwist:8.5.0-SNAPSHOT",
+        "ttWbd": "com.tooltwist:ttWbd:8.5.0-SNAPSHOT",
+        "ttStd": "com.tooltwist:ttStd:8.5.0-SNAPSHOT",
+        "cloudmall": "com.tooltwist:cloudmall:2.3.1-SNAPSHOT",
+        "bootstrap-tooltwist": "com.tooltwist:bootstrap-tooltwist:3.3.5-SNAPSHOT"
+}

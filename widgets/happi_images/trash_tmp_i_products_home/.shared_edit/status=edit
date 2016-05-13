@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1460085265756</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.123</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1460085088073</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.123</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1460082167503</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from happi.images.tmp_i_products_health to happi.images.tmp_i_products_home</comment>
+  <userCode>rodanluzuriaga</userCode>
+  <ipAddress>10.0.16.123</ipAddress>
+</statusHistory>
+</widgetStatus>
