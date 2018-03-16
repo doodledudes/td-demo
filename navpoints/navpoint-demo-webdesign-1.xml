@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>demo</parent>
+  <name>demo-webdesign-1</name>
+  <id>webdesign-1</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>Home</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>demo.pages.p_home</pageWidget>
+</navpoint>

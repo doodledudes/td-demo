@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <name>demo</name>
+  <id>demo</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>group</type>
+  <label>demo</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints for demo</notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+</navpoint>
