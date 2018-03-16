@@ -1,7 +1,8 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.CropImageWidget</widgetClass>
   <idWithinRootWidget>0</idWithinRootWidget>
-  <updateTime>1521189695492</updateTime>
+  <parentVersion>shared_edit</parentVersion>
+  <updateTime>1521190054138</updateTime>
   <shortDesc> </shortDesc>
   <updatedBy>tooltwistdesigner</updatedBy>
   <ipAddress>10.0.16.67</ipAddress>

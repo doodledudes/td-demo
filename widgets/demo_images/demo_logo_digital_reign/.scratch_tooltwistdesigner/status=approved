@@ -1,5 +1,19 @@
 ﻿<widgetStatus>
 <statusHistory>
+  <timeChanged>1521190054138</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521190050923</timeChanged>
+  <status>edit</status>
+  <comment>Forked for group editing</comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
   <timeChanged>1521189698474</timeChanged>
   <status>approved</status>
   <comment> </comment>
