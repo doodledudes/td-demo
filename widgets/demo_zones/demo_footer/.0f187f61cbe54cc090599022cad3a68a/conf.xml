@@ -1,9 +1,8 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.GenericMustacheWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <parentVersion>7bdf1c25c8f549f2b3c89443aa3b29bf</parentVersion>
-  <updateTime>1521190079282</updateTime>
-  <shortDesc>Forked for group editing</shortDesc>
+  <updateTime>1521191128296</updateTime>
+  <shortDesc> </shortDesc>
   <updatedBy>tooltwistdesigner</updatedBy>
   <ipAddress>10.0.16.67</ipAddress>
   <editableSnippet>

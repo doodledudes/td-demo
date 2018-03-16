@@ -1,36 +1,43 @@
 ﻿<widgetStatus>
 <statusHistory>
-  <timeChanged>1521190054138</timeChanged>
+  <timeChanged>1521191136418</timeChanged>
   <status>approved</status>
   <comment> </comment>
   <userCode>tooltwistdesigner</userCode>
   <ipAddress>10.0.16.67</ipAddress>
 </statusHistory>
 <statusHistory>
-  <timeChanged>1521190050923</timeChanged>
+  <timeChanged>1521190075506</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521190072097</timeChanged>
   <status>edit</status>
   <comment>Forked for group editing</comment>
   <userCode>tooltwistdesigner</userCode>
   <ipAddress>10.0.16.67</ipAddress>
 </statusHistory>
 <statusHistory>
-  <timeChanged>1521189698474</timeChanged>
+  <timeChanged>1521189666994</timeChanged>
   <status>approved</status>
   <comment> </comment>
   <userCode>null</userCode>
   <ipAddress>10.0.16.67</ipAddress>
 </statusHistory>
 <statusHistory>
-  <timeChanged>1521189695512</timeChanged>
+  <timeChanged>1521189664797</timeChanged>
   <status>pending</status>
   <comment> </comment>
   <userCode>tooltwistdesigner</userCode>
   <ipAddress>10.0.16.67</ipAddress>
 </statusHistory>
 <statusHistory>
-  <timeChanged>1521178888622</timeChanged>
+  <timeChanged>1521180987124</timeChanged>
   <status>edit</status>
-  <comment>Cloned from demo.images.tmp_img_featured_1_jpg to demo.images.demo_logo_digital_reign</comment>
+  <comment>Cloned from demo.zones.css_main to demo.zones.demo_stylesheet</comment>
   <userCode>tooltwistdesigner</userCode>
   <ipAddress>10.0.16.67</ipAddress>
 </statusHistory>

@@ -1,7 +1,8 @@
 ﻿<widget>
   <widgetClass>tooltwist.wbd.GenericMustacheWidget</widgetClass>
   <idWithinRootWidget></idWithinRootWidget>
-  <updateTime>1521189680171</updateTime>
+  <parentVersion>7bdf1c25c8f549f2b3c89443aa3b29bf</parentVersion>
+  <updateTime>1521191140408</updateTime>
   <shortDesc> </shortDesc>
   <updatedBy>tooltwistdesigner</updatedBy>
   <ipAddress>10.0.16.67</ipAddress>
