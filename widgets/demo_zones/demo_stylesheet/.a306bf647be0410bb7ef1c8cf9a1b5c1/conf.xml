@@ -1,0 +1,35 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.StylesheetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <updateTime>1521189664795</updateTime>
+  <shortDesc> </shortDesc>
+  <updatedBy>tooltwistdesigner</updatedBy>
+  <ipAddress>10.0.16.67</ipAddress>
+  <content>body {
+    background: #f5f5f5;
+}
+
+.card {
+    padding: 15px;
+    background: white;
+    border: 1px solid #dadada;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    padding: 50px 0;
+}
+
+.form-control {
+    box-shadow: none;
+    border-radius: 0;
+    border-color: #ddd;
+}
+
+table:last-child,
+.form-group:last-child {
+    margin-bottom: 0;
+}</content>
+  <description>Stylesheet</description>
+</widget>

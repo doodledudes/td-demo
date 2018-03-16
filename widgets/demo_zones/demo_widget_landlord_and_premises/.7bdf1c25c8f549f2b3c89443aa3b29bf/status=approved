@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1521189673602</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521189671173</timeChanged>
+  <status>pending</status>
+  <comment> </comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521176700739</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from demo.zones.demo_widget_tenancy_details to demo.zones.demo_widget_landlord_and_premises</comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+</widgetStatus>

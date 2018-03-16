@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1521189641195</timeChanged>
+  <status>approved</status>
+  <comment> </comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521189638439</timeChanged>
+  <status>pending</status>
+  <comment> </comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1521171461934</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from demo.pages.demoPage_template to demo.pages.demo_page_application_for_tenancy</comment>
+  <userCode>tooltwistdesigner</userCode>
+  <ipAddress>10.0.16.67</ipAddress>
+</statusHistory>
+</widgetStatus>
