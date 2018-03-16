@@ -1,3 +1,8 @@
 #ttPage-designer {
   text-align: inherit;
 }
+.ttDesigner-region-label {
+  padding: 2px 5px;
+  width: auto;
+  display: inline-block;
+}
