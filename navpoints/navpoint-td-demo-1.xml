@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>demo</parent>
+  <name>td-demo-1</name>
+  <id>td-demo-1</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>Application For Tenancy</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>demo.pages.demo_page_application_for_tenancy</pageWidget>
+</navpoint>

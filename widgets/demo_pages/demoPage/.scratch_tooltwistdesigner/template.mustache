@@ -1,0 +1,94 @@
+[[^PAGE:DESIGNER_MODE]]<!DOCTYPE html>
+ <%@page contentType="text/html; charset=UTF-8"%>
+ <%@page errorPage="../tooltwist/basic/error.jsp"%>
+ <%@page import="java.text.DateFormat"%>
+ <%@page import="tooltwist.misc.DateUtils"%>
+ <%@page import="tooltwist.misc.JspHelper"%>
+ <%@page import="tooltwist.ecommerce.RoutingUIM"%>
+
+ <%@page import="java.io.FileReader"%>
+ <%@page import="java.util.HashMap"%>
+ <%@page import="java.util.Iterator"%>
+ <%@page import="java.util.Properties"%>
+
+ <%@page import="com.dinaa.data.XData"%>
+ <%@page import="com.dinaa.ui.UimData"%>
+ <%@page import="com.dinaa.xpc.XpcSecurity"%>
+
+ <%@page import="tooltwist.ecommerce.RoutingUIM"%>
+ <%@page import="tooltwist.wbd.SnippetParam"%>
+ <%@page import="tooltwist.wbd.WbdException"%>
+ <%@page import="tooltwist.wbd.WbdRadioTextProperty"%>
+ <%@page import="tooltwist.wbd.WbdRenderHelper"%>
+ <%@page import="tooltwist.wbd.WbdSizeInfo"%>
+ <%@page import="tooltwist.wbd.WbdStringProperty"%>
+ <%@page import="tooltwist.wbd.WbdSession"%>
+ <%@page import="tooltwist.wbd.WbdProductionHelper"%>
+ <%@page import="tooltwist.wbd.WbdCache"%>
+ [[PAGE:importCode]]
+ <%
+   String jspName = "demo-page";
+   JspHelper jh = JspHelper.getJspHelper(pageContext, jspName);
+ [[&PAGE:preFetchCode]]
+ %>
+ <html>
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <title>[[PAGE:pageTitle]]</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="description" content="[[PAGE:descriptionMetatag]]">
+     <meta name="keywords" content="[[PAGE:keywordMetatag]]">
+     <meta name="generator" content="ToolTwist"/>
+
+     <link rel="icon" type="image/x-icon" href="//dbgw6333l9sbi.cloudfront.net/curia-studylane/curia.studylane.images.favicon.ico">
+ [[#PAGE:canonicalUrl]]
+     <link rel="canonical" href="\[\[PAGE:canonicalUrl]]">
+ [[/PAGE:canonicalUrl]]
+     <!-- Bootstrap -->
+     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+ [[#NOTYET]]
+     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+     <!--[if lt IE 9]>
+       <script src="../../assets/js/html5shiv.js"></script>
+       <script src="../../assets/js/respond.min.js"></script>
+     <![endif]-->
+ [[/NOTYET]]
+
+ [[&PAGE:headerCode]]
+   </head>
+   <body>
+ [[&PAGE:topCode]]
+ [[/PAGE:DESIGNER_MODE]]
+
+
+ [[#DESIGNER_MODE]]
+ <div class="ttDesigner-region-label">before page</div>
+ [[/DESIGNER_MODE]]
+ [[&CHILD-FLOW-before-page]]
+
+
+ [[#DESIGNER_MODE]]
+ <div class="ttDesigner-region-label">body</div>
+ [[/DESIGNER_MODE]]
+ [[&CHILD-FLOW-body]]
+
+
+ [[#DESIGNER_MODE]]
+ <div class="ttDesigner-region-label">after-page</div>
+ [[/DESIGNER_MODE]]
+ [[&CHILD-FLOW-after-page]]
+
+
+
+ [[^PAGE:DESIGNER_MODE]]
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+     <script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
+     <!-- Include all compiled plugins (below), or include individual files as needed -->
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   </body>
+ [[&PAGE:bottomCode]]
+ </html>
+ [[/PAGE:DESIGNER_MODE]]

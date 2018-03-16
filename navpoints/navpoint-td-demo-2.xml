@@ -1,0 +1,11 @@
+﻿<navpoint>
+  <parent>demo</parent>
+  <name>td-demo-2</name>
+  <id>td-demo-2</id>
+  <indexWithinParent>0</indexWithinParent>
+  <type>page</type>
+  <label>Routine Inspection Report</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <pageWidget>demo.pages.demo_page_routine_inspection_report</pageWidget>
+</navpoint>
